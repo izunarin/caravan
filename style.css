@@ -231,3 +231,16 @@ footer {
 .footer-text {
   color: #fff;
 }
+social i{
+  color: block;
+}
+
+@media screen and (max-width: 425px) {
+　body {      /* 例です */
+    width: 100%; 
+    margin-left: 10px;/* 例です */
+  }
+   main {
+    display: block;
+  }
+}
